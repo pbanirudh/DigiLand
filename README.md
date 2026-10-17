@@ -30,15 +30,39 @@
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-pbanirudh.github.io/DigiLand-22C55E?style=for-the-badge)](https://pbanirudh.github.io/DigiLand/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-pbanirudh/DigiLand-181717?style=for-the-badge&logo=github)](https://github.com/pbanirudh/DigiLand)
 
-<br/><br/>
+</div>
 
-### 🖥️ Live Preview
+---
 
-<a href="https://pbanirudh.github.io/DigiLand/" target="_blank">
-  <img src="https://image.thum.io/get/width/1280/crop/768/noanimate/https://pbanirudh.github.io/DigiLand/" alt="DigiLand Live Preview" width="100%" style="border-radius:12px; border: 2px solid #22C55E;" />
+## 🖥️ Screenshots
+
+<div align="center">
+
+### 📊 Executive Dashboard
+<a href="https://pbanirudh.github.io/DigiLand/">
+  <img src="./screenshots/dashboard.png" alt="DigiLand Executive Dashboard" width="100%" />
 </a>
 
-<sub>👆 Click the preview to open the live site</sub>
+<br/><br/>
+
+### 🔍 Split-View Verification (Human-in-the-Loop)
+<a href="https://pbanirudh.github.io/DigiLand/">
+  <img src="./screenshots/verification.png" alt="DigiLand Split-View Verification" width="100%" />
+</a>
+
+<br/><br/>
+
+### 📄 Document Upload & OCR Pipeline
+<a href="https://pbanirudh.github.io/DigiLand/">
+  <img src="./screenshots/upload.png" alt="DigiLand Document Upload" width="100%" />
+</a>
+
+<br/><br/>
+
+### 🛡️ Cryptographic Audit Trail
+<a href="https://pbanirudh.github.io/DigiLand/">
+  <img src="./screenshots/audit.png" alt="DigiLand Audit Trail" width="100%" />
+</a>
 
 </div>
 
