@@ -30,6 +30,16 @@
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-pbanirudh.github.io/DigiLand-22C55E?style=for-the-badge)](https://pbanirudh.github.io/DigiLand/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-pbanirudh/DigiLand-181717?style=for-the-badge&logo=github)](https://github.com/pbanirudh/DigiLand)
 
+<br/><br/>
+
+### 🖥️ Live Preview
+
+<a href="https://pbanirudh.github.io/DigiLand/" target="_blank">
+  <img src="https://image.thum.io/get/width/1280/crop/768/noanimate/https://pbanirudh.github.io/DigiLand/" alt="DigiLand Live Preview" width="100%" style="border-radius:12px; border: 2px solid #22C55E;" />
+</a>
+
+<sub>👆 Click the preview to open the live site</sub>
+
 </div>
 
 ---
