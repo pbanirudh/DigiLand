@@ -1,7 +1,9 @@
 {
   "framework": "vite",
+  "rootDirectory": "SIH-Digiland-main",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
+  "installCommand": "npm install",
   "rewrites": [
     {
       "source": "/(.*)",
