@@ -27,7 +27,8 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_DigiLand-22C55E?style=for-the-badge)](https://digiland.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-pbanirudh.github.io/DigiLand-22C55E?style=for-the-badge)](https://pbanirudh.github.io/DigiLand/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-pbanirudh/DigiLand-181717?style=for-the-badge&logo=github)](https://github.com/pbanirudh/DigiLand)
 
 </div>
 
@@ -113,7 +114,7 @@ DigiLand tackles India's most critical land governance challenge: **fragmented, 
 ### 🗺️ Bhu-Naksha GIS Cadastral Mapping
 - Leaflet-based interactive cadastral maps
 - Satellite, Cadastral Parcel & Zoning layer toggles
-- PostGIS spatial geometry cross-validation
+- Spatial geometry cross-validation
 - Plot area (m²) vs. GIS polygon verification
 - Real-time parcel selection & record linking
 
@@ -175,7 +176,7 @@ DigiLand tackles India's most critical land governance challenge: **fragmented, 
 | **Database** | SQLite, SQLAlchemy ORM |
 | **Cryptography** | SHA-256 Block Chaining, Ed25519 Digital Signatures |
 | **i18n** | Native React Language Context (10 langs + RTL) |
-| **Deployment** | Vercel (Frontend), Render (Backend) |
+| **Hosting** | GitHub Pages (Frontend), Render (Backend) |
 
 ---
 
@@ -193,9 +194,9 @@ DigiLand/
 │   │   ├── App.jsx              # Main Application Router
 │   │   ├── 📁 components/       # Platform View Components
 │   │   │   ├── Dashboard.jsx    # Analytics KPI Dashboard
-│   │   │   ├── DocumentUpload.jsx   # OCR Upload Pipeline
+│   │   │   ├── DocumentUpload.jsx       # OCR Upload Pipeline
 │   │   │   ├── SplitViewVerification.jsx  # Dual-Pane Viewer
-│   │   │   ├── RecordDetailsView.jsx      # Full Record Modal
+│   │   │   ├── RecordDetailsView.jsx    # Full Record Modal
 │   │   │   ├── GisMapView.jsx   # Cadastral Map Component
 │   │   │   ├── AuditLogsView.jsx  # Audit Ledger View
 │   │   │   ├── AdminRbac.jsx    # RBAC Management
@@ -207,12 +208,13 @@ DigiLand/
 │   ├── index.html               # Entry HTML
 │   ├── vite.config.js           # Vite Config
 │   ├── tailwind.config.js       # TailwindCSS Theme
+│   ├── postcss.config.js        # PostCSS Config
 │   └── package.json             # NPM Dependencies
+├── 📁 .github/workflows/        # CI/CD Pipeline
+│   └── deploy.yml               # GitHub Pages Auto-Deploy
 ├── run.py                       # 1-Click Dual Launcher
 ├── start.bat                    # Windows Batch Launcher
 ├── start.ps1                    # PowerShell Launcher
-├── vercel.json                  # Vercel Deployment Config
-├── render.yaml                  # Render Deployment Config
 └── README.md                    # This file
 ```
 
